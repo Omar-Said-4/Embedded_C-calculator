@@ -1,9 +1,9 @@
 # Embedded_C-calculator
 ## Used Tools:
-1- AVR atmega 32 MCU.
-2- 16x2 character LCD.
-3- 4x4 Keypad.
-4- Eclipse for C prgramming and debugging.
+1. AVR atmega 32 MCU.
+2. 16x2 character LCD.
+3.  4x4 Keypad.
+4. Eclipse for C prgramming and debugging.
 
 ## Description:
 - This project is an application on the finite state machine.
